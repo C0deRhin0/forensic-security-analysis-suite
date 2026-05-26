@@ -33,12 +33,12 @@ This script is a capstone project for Security Blue Team: PowerShell Course. Som
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/C0deRhin0/Windows-PowerShell-Unified-Forensic-Security-Analysis-Suite.git
+   git clone https://github.com/CC0deRhin0/forensic-security-analysis-suite.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Windows-PowerShell-Unified-Forensic-Security-Analysis-Suite
+   cd forensic-security-analysis-suite
    ```
 
 3. Running the script:
